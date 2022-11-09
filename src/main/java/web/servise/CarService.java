@@ -11,5 +11,7 @@ public interface CarService {
 
     public List<Car> getCars(int count);
 
+    public void gen5();
+
 
 }
